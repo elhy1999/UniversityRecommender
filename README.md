@@ -1,4 +1,4 @@
-# dsa3101-2220-12-ds
+# UniversityRecommender
 
 ## Project Description 
 Data Science has been around for close to 10 years, yet there is no agreement on what the field consists of. This leads to confusion among prospective students when they are trying to decide between degree programs. It also leads to arguments and disagreements within and between universities when it comes to assessing the performance of a "data science" department.
